@@ -1,0 +1,99 @@
+body{
+    font-family: 'Poppins', sans-serif;
+  
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+#big-boss{
+    color: orangered;
+}
+
+#land{
+    color: royalblue;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.backbone{
+    width: 50%;
+    padding: 3%;
+}
+.backbone img{
+ width: 90%;
+}
+.Order-button{
+    text-decoration: none;
+    background-color: orangered;
+    background-image: linear-gradient(red,yellow);
+    padding: 10px 40px;
+    color: rgb(124, 101, 101);
+    font-weight: 600;
+    border-radius: 20px;
+}
+.Nation{
+    background-image: url(images/shapes/heaven.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.my-country{
+    background-image: url(images/shapes/art.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.know{
+    width: 60%;
+    padding: 4%;
+}
+#world{
+    color: indigo;
+}
+#hill{
+    color: crimson;
+}
+#east{
+    color: orangered;
+}
+
+.last{
+    width: 75%;
+    padding: 4%;
+    margin-top: 100px;
+    margin-left: 35px;
+    margin-right: 45px;
+    box-shadow: 10px 10px 20px grey;
+    border-radius: 30px;
+}
+.last img{
+    width: 60%;
+}
+.blog{
+    width: 140%;
+    margin-top: 18%;
+}
+.human{
+    margin-left: 5%;
+}
+.old-man{
+    text-align: center;
+}
+.person{
+   background: black;
+   color: white;
+}
+#new-color{
+    color: yellow;
+}
+.low{
+    text-decoration: none;
+    color: lightblue;
+}
+#short{
+    text-align: center;
+    color: orangered;
+    margin-top: 160px;
+}
