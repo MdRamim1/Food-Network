@@ -9,18 +9,18 @@ h2{
     font-size: 40px;
 }
 #big-boss{
-    color: orangered;
+    color: purple;
 }
 
 #land{
-    color: royalblue;
+    color: navy;
 }
 section{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
 }
 .backbone{
-    width: 50%;
+    width: 45%;
     padding: 3%;
 }
 .backbone img{
@@ -31,7 +31,7 @@ section{
     background-color: orangered;
     background-image: linear-gradient(red,yellow);
     padding: 10px 40px;
-    color: rgb(124, 101, 101);
+    color: rgb(128, 77, 77);
     font-weight: 600;
     border-radius: 20px;
 }
@@ -50,7 +50,7 @@ section{
     padding: 4%;
 }
 #world{
-    color: indigo;
+    color: olivedrab;
 }
 #hill{
     color: crimson;
@@ -82,7 +82,7 @@ section{
     text-align: center;
 }
 .person{
-   background: black;
+   background: green;
    color: white;
 }
 #new-color{
